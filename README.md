@@ -75,7 +75,6 @@ Accede a la API en: http://localhost:8080.
 Las contribuciones son bienvenidas. Si encuentras algún error o deseas agregar nuevas funcionalidades, por favor abre un `**issue**` o envía un `**pull request**`.
 
 ## Autor
-`**Angie**`
 [GitHub Profile](https://github.com/Angiegm2)
 
 
